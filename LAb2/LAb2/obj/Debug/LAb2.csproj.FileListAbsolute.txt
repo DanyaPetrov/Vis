@@ -1,0 +1,15 @@
+D:\visprog\LAb2\LAb2\bin\Debug\LAb2.dll
+D:\visprog\LAb2\LAb2\bin\Debug\LAb2.pdb
+D:\visprog\LAb2\LAb2\obj\Debug\LAb2.csprojAssemblyReference.cache
+D:\visprog\LAb2\LAb2\obj\Debug\LAb2.UserControl1.resources
+D:\visprog\LAb2\LAb2\obj\Debug\LAb2.csproj.GenerateResource.cache
+D:\visprog\LAb2\LAb2\obj\Debug\LAb2.dll
+D:\visprog\LAb2\LAb2\obj\Debug\LAb2.pdb
+F:\visprog\LAb2\LAb2\bin\Debug\LAb2.dll
+F:\visprog\LAb2\LAb2\bin\Debug\LAb2.pdb
+F:\visprog\LAb2\LAb2\obj\Debug\LAb2.csproj.AssemblyReference.cache
+F:\visprog\LAb2\LAb2\obj\Debug\LAb2.UserControl1.resources
+F:\visprog\LAb2\LAb2\obj\Debug\LAb2.csproj.GenerateResource.cache
+F:\visprog\LAb2\LAb2\obj\Debug\LAb2.csproj.CoreCompileInputs.cache
+F:\visprog\LAb2\LAb2\obj\Debug\LAb2.dll
+F:\visprog\LAb2\LAb2\obj\Debug\LAb2.pdb
