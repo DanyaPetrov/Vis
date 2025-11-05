@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="WpfApp1.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox Header="Root Priority" Margin="0,288,0,37">
+            <Button Content="1" HorizontalAlignment="Left" Margin="63,0,0,0" VerticalAlignment="Top" Height="83" Width="68"/>
+        </GroupBox>
+        <Button Content="Root Menu" HorizontalAlignment="Left" Margin="575,392,0,0" VerticalAlignment="Top" Width="76"/>
+        <Button Content="Default" HorizontalAlignment="Left" Margin="696,392,0,10" Width="69"/>
+        <Button Content="Button2" HorizontalAlignment="Left" Margin="175,306,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.35,0.075" Height="64" Width="66"/>
+        <GroupBox Header="Temperature" Margin="10,130,577,232">
+            <Label Content="GPU" HorizontalAlignment="Left" Height="29" Margin="10,0,0,0" VerticalAlignment="Top" Width="46"/>
+        </GroupBox>
+        <Image HorizontalAlignment="Left" Height="81" Margin="10,202,0,0" VerticalAlignment="Top" Width="206"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,32,0,0" TextWrapping="Wrap" Text="16:12" VerticalAlignment="Top" Height="93" Width="198" FontSize="72"/>
+        <Path Stroke="Black" StrokeThickness="1" Data="M50,250 L90,250 L70,230 z"/>
+        <GroupBox Header="Quelt" Margin="34,202,683,156"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="66,160,0,0" VerticalAlignment="Top" Width="100"/>
+        <ComboBox HorizontalAlignment="Left" Margin="623,32,0,0" VerticalAlignment="Top" Width="120" IsSynchronizedWithCurrentItem="False">
+            <ListBoxItem Content="English" IsSelected="True"/>
+            <ListBoxItem Content="Russian"/>
+        </ComboBox>
+    </Grid>
+
+</Window>
