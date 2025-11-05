@@ -1,0 +1,29 @@
+<objects>
+    <object>
+        <type>Строка</type>
+        <value>Пример строки</value>
+        <methods>
+            <method>Длина</method>
+            <method>Увеличить регистр</method>
+            <method>Уменьшить регистр</method>
+        </methods>
+    </object>
+    <object>
+        <type>Двоичная строка</type>
+        <value>10101</value>
+        <methods>
+            <method>Это полидром?</method>
+            <method>Обратная строка</method>
+            <method>Перевести в десятичную</method>
+        </methods>
+    </object>
+    <object>
+        <type>Десятичная строка</type>
+        <value>-15.25</value>
+        <methods>
+            <method>Вывод значения</method>
+            <method>Умножить</method>
+            <method>Индекс точки</method>
+        </methods>
+    </object>
+</objects>
